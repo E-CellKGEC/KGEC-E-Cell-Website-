@@ -1,11 +1,10 @@
 'use client';
 
 import { useEffect, useState } from "react";
-import { AnimatePresence, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import Hero from "@/components/Hero";
 import Sponsers from "@/components/sponsors/Index";
 import ScrollGallery from "@/components/horizontal-gallery/Index";
-import Index from "@/components/preloader/page";
 import MotoSection from "@/components/MotoSection/page";
 import About from "@/components/About/About";
 import Events from "@/components/Events/Events";
