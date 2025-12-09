@@ -2,10 +2,8 @@ import React from 'react'
 import LumoraAbout from '@/components/LumoraAbout';
 import LumoraGallery from '@/components/LumoraGallery';
 import LumoraImageAnimation from '@/components/LumoraImageAnimation';
-import LumoraJudges from '@/components/LumoraJudges/Index';
-import EventCardGrid from '@/components/ModernEventCard/EventCardGrid';
+import LumoraJudges from '@/components/LumoraJudges/index';
 import StickyFooterContent from '@/components/StickyFooterContent';
-import { NextPage } from 'next';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
